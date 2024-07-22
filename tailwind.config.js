@@ -4,20 +4,12 @@ export const content = ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"];
 export const theme = {
   extend: {
     colors: {
-      white: "var(--white)",
-      "off-white-1": "var(--off-white-1)",
-      "off-white-2": "var(--off-white-2)",
-
-      black: "var(--black)",
-      "off-black-1": "var(--off-black-1)",
-      "off-black-2": "var(--off-black-2)",
-
-      gray: "var(--gray)",
-      "off-gray-1": "var(--off-gray-1)",
-      "off-gray-2": "var(--off-gray-2)",
-
-      purple: "var(--purple)",
-      "opac-purple": "var(--opac-purple)",
+      "dark-gray": "var(--dark-gray)",
+      "logo-red": "var(--logo-red)",
+      orange: "var(--orange)",
+      "off-yellow": "var(--off-yellow)",
+      beige: "var(--beige)",
+      teal: "var(--teal)",
     },
     fontSize: {
       "font-12": ["var(--font-12)", { lineHeight: "var(--line-height-18)" }],

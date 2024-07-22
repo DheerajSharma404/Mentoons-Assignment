@@ -5,9 +5,7 @@
 @layer base {
   :root {
     /* COLORS */
-    --white: #ffffff;
-    --black: #000000;
-    --gray: #828282;
+
     --dark-gray: #343434;
     --logo-red: #d40831;
     --orange: #ff6b1b;
@@ -40,12 +38,12 @@
 }
 html {
   font-size: 16px;
-  font-family: "DM Sans", sans-serif;
+  font-family: "Inter", sans-serif;
   box-sizing: border-box;
 }
 
 body {
-  background-color: var(--white);
+  background-color: white;
 }
 
 @layer utilities {
@@ -58,5 +56,10 @@ body {
       rgb(84, 73, 235) 10%,
       rgb(120, 53, 233) 100%
     );
+  }
+  .rubik-bubbles-regular {
+    font-family: "Rubik Bubbles", system-ui;
+    font-weight: 400;
+    font-style: normal;
   }
 }
