@@ -57,7 +57,7 @@ const QuizCategory = () => {
       </div>
       <div className='w-full '>
         <img
-          src='/assets/images/cloud-3.svg'
+          src='/assets/images/cloud-4.svg'
           alt='Cloud pattern'
           className='w-full object-cover'
         />
