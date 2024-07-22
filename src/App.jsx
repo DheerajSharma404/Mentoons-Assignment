@@ -1,7 +1,8 @@
-import { AboutMentoonsQuiz, HeroSection } from "./components";
+import { AboutMentoonsQuiz, HeroSection, QuizCategory } from "./components";
+
 const App = () => {
   return (
-    <main className=''>
+    <main className='bg-beige'>
       {/* Mentoons Quiz Page 
           Outline of Homepage:
           1. Hero Section
@@ -17,6 +18,8 @@ const App = () => {
       <HeroSection />
       {/* About Mentoons Quiz */}
       <AboutMentoonsQuiz />
+      {/*Quiz Categories  */}
+      <QuizCategory />
     </main>
   );
 };
