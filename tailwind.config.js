@@ -10,6 +10,7 @@ export const theme = {
       "off-yellow": "var(--off-yellow)",
       beige: "var(--beige)",
       teal: "var(--teal)",
+      "light-purpel": "var(--light-purpel)",
     },
     fontSize: {
       "font-12": ["var(--font-12)", { lineHeight: "var(--line-height-18)" }],
