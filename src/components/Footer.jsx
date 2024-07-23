@@ -43,7 +43,7 @@ const Footer = () => {
           </ul>
         </nav>
         <p className=' text-center text-white text-font-12 pt-12 pr-16'>
-          &copy; 2024 All Right Reserverd Mentoons.com
+          &copy; 2024 All Right Reserved Mentoons.com
         </p>
       </div>
     </section>
