@@ -1,6 +1,7 @@
 import {
   AboutMentoonsQuiz,
   CTA,
+  Footer,
   HeroSection,
   HowItWorks,
   QuizCategory,
@@ -11,11 +12,6 @@ import {
 const App = () => {
   return (
     <main className='bg-beige'>
-      {/* Mentoons Quiz Page 
-          Outline of Homepage:
-          7. Call to Action
-          8. Footer 
-      */}
       {/* Hero Section */}
       <HeroSection />
       {/* About Mentoons Quiz */}
@@ -30,6 +26,8 @@ const App = () => {
       <Testimonial />
       {/*  Call to Action */}
       <CTA />
+      {/*  Footer  */}
+      <Footer />
     </main>
   );
 };
