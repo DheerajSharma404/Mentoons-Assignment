@@ -3,6 +3,7 @@ import {
   HeroSection,
   HowItWorks,
   QuizCategory,
+  Testimonial,
   WhyMentoons,
 } from "./components";
 
@@ -25,6 +26,8 @@ const App = () => {
       <HowItWorks />
       {/* Benefits */}
       <WhyMentoons />
+      {/* Testimonial  */}
+      <Testimonial />
     </main>
   );
 };

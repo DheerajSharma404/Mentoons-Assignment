@@ -16,7 +16,7 @@ const WhyMentoons = () => {
             <p className='absolute text-7xl text-rose-600 rubik-bubbles-regular  w-full text-center'>
               Quiz
             </p>
-            <div className=' absolute  p-4 top-[-140px] left-[-340px] px-8   rounded-3xl bg-amber-200'>
+            <div className=' absolute  p-4 top-[-140px] left-[-340px] px-8   rounded-3xl bg-amber-200 shadow-2xl'>
               <div className=' w-full flex items-start justify-start'>
                 <img
                   src='/assets/images/quotation-mark.svg'
@@ -35,7 +35,7 @@ const WhyMentoons = () => {
                 />
               </div>
             </div>
-            <div className=' absolute  p-4 top-[-80px] right-[-340px] px-8   rounded-3xl bg-rose-200'>
+            <div className=' absolute  p-4 top-[-80px] right-[-340px] px-8   rounded-3xl bg-rose-200 shadow-2xl'>
               <div className=' w-full flex items-start justify-start'>
                 <img
                   src='/assets/images/quotation-mark.svg'
@@ -54,7 +54,7 @@ const WhyMentoons = () => {
                 />
               </div>
             </div>
-            <div className=' absolute  p-4 bottom-[-100px] left-[-280px] px-8   w-[320px] rounded-3xl bg-purple-200'>
+            <div className=' absolute  p-4 bottom-[-100px] left-[-280px] px-8   w-[320px] rounded-3xl bg-purple-200 shadow-2xl'>
               <div className=' w-full flex items-start justify-start'>
                 <img
                   src='/assets/images/quotation-mark.svg'
@@ -73,7 +73,7 @@ const WhyMentoons = () => {
                 />
               </div>
             </div>
-            <div className=' absolute  p-4 bottom-[-160px] right-[-300px] px-6 w-[320px]  rounded-3xl bg-lime-200'>
+            <div className=' absolute  p-4 bottom-[-160px] right-[-300px] px-6 w-[320px]  rounded-3xl bg-lime-200 shadow-2xl'>
               <div className=' w-full flex items-start justify-start'>
                 <img
                   src='/assets/images/quotation-mark.svg'
