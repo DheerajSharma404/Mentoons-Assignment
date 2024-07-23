@@ -1,6 +1,6 @@
 const HowItWorks = () => {
   return (
-    <section className='bg-light-purpel'>
+    <section className='bg-light-purpel pb-8'>
       <h2 className='text-4xl text-purple-500 rubik-bubbles-regular pb-8 text-center pt-8 '>
         How It Works
       </h2>
