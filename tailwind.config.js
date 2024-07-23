@@ -12,6 +12,9 @@ export const theme = {
       teal: "var(--teal)",
       "light-purpel": "var(--light-purpel)",
     },
+    content: {
+      quote: "url('./public/assets/images/quotation-mark.svg')",
+    },
     fontSize: {
       "font-12": ["var(--font-12)", { lineHeight: "var(--line-height-18)" }],
       "font-14": ["var(--font-14)", { lineHeight: "var(--line-height-20)" }],
