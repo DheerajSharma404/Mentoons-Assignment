@@ -45,7 +45,7 @@ const HeroSection = () => {
           alt='Hero Image'
           className='max-w-full w-full object-cover '
         />
-        <div className='absolute top-8 left-1/2  transform -translate-x-1/2 justify-center bg-white rounded-full px-8 py-2 text-black text-font-16 font-bold z-10 hover:bg-white/80 hover:text-orange transition-all duration-300 whitespace-nowrap'>
+        <div className='absolute top-8 left-1/2  transform -translate-x-1/2 justify-center bg-white rounded-full px-8 py-2 text-dark-gray text-font-16 font-bold z-10 hover:bg-white/80 hover:text-orange transition-all duration-300 whitespace-nowrap'>
           <button>Start Quizzing Now</button>
         </div>
       </div>
