@@ -51,6 +51,7 @@ body {
   .active {
     @apply bg-blue-50 text-white font-normal;
   }
+
   .primary-gradient {
     background: linear-gradient(
       112deg,
@@ -58,6 +59,7 @@ body {
       rgb(120, 53, 233) 100%
     );
   }
+
   .rubik-bubbles-regular {
     font-family: "Rubik Bubbles", system-ui;
     font-weight: 400;
