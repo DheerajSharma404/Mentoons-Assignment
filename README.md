@@ -2,9 +2,12 @@
 
 Mentoons is a result of the creative amalgamation of a diverse team coming together - our founder, talented developers, creative illustrators, skillfull graphic designers, adept content writers, melodious music producer, and experienced psychologists.
 
+![Project video](public/assets/videos/CleanShot%202024-07-23%20at%2010.36.22.mp4)
+
 ## Features
 
 ### UI of differnt Section
+
 - Hero Section
 - About Mentoons Quiz
 - Quiz Categories
